@@ -94,7 +94,7 @@ The full dataset including saved model weights can be found at https://huggingfa
 
 ## Train
 
-We finetune LLaVA-v1.5-7B, LLaVA-v1.5-13B, Qwen3-VL-7B, and LLaMA-3.2-11B with 1 NVIDIA H200 GPU. The code and training parameters to train each model is in the "train" folder.
+We finetune LLaVA-v1.5-7B, LLaVA-v1.5-13B, Qwen2.5-VL-7B, and LLaMA-3.2-11B with 1 NVIDIA H200 GPU. The code and training parameters to train each model is in the "train" folder.
 
 ## Evaluation
 
